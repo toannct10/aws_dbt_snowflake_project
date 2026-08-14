@@ -1,7 +1,5 @@
 # AIRBNB DATA ENGINEERING PROJECT
 
-# 🏠 Airbnb End-to-End Data Engineering Project
-
 ---
 
 ## 📋 Overview
